@@ -1,0 +1,12 @@
+{
+  "type": 0,
+  "model": "tomori_other-25.moc",
+  "textures": [
+    "texture_00.png",
+    "texture_01.png"
+  ],
+  "physics": "tomori_other-25.physics.json",
+  "physics_v2": {
+    "file": "tomori_other-25.physics.json"
+  }
+}
